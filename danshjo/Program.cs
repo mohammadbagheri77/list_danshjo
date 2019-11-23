@@ -17,7 +17,7 @@ namespace danshjo
 
             mohasbe dars = new mohasbe();
             int j = 1, num = 1;
-            // int addnum1 = 0;
+            
             int adddars;
             string addname2 = null;
             List<Ostad> Masters;
